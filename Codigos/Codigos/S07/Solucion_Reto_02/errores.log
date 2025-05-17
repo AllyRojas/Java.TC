@@ -1,0 +1,17 @@
+[2025-05-04 08:00:01] INFO - Inicio de ejecución de pruebas automáticas.
+[2025-05-04 08:00:05] INFO - Cargando configuración desde archivo config.yml.
+[2025-05-04 08:00:10] DEBUG - Parámetros de prueba cargados correctamente.
+[2025-05-04 08:00:15] INFO - Conexión con base de datos establecida.
+[2025-05-04 08:00:20] ERROR - Falla al obtener datos de la tabla usuarios: SQLException.
+[2025-05-04 08:00:30] WARNING - El módulo de autenticación respondió en 3050 ms (límite: 3000 ms).
+[2025-05-04 08:00:45] INFO - Prueba unitaria del módulo de pagos completada.
+[2025-05-04 08:00:50] ERROR - NullPointerException al acceder al objeto Cliente en PedidoService.
+[2025-05-04 08:01:05] DEBUG - Token de sesión generado correctamente para usuario admin.
+[2025-05-04 08:01:10] INFO - Envío de notificaciones por correo iniciado.
+[2025-05-04 08:01:15] ERROR - Timeout al conectar con el servidor SMTP.
+[2025-05-04 08:01:25] INFO - Finalizando pruebas del módulo de reportes.
+[2025-05-04 08:01:30] WARNING - Uso de memoria alcanzó el 85% durante prueba de carga.
+[2025-05-04 08:01:45] INFO - Pruebas de integración completadas sin errores críticos.
+[2025-05-04 08:01:55] ERROR - IndexOutOfBoundsException en módulo de estadísticas.
+[2025-05-04 08:02:10] DEBUG - Datos de prueba generados: 1000 registros.
+[2025-05-04 08:02:20] INFO - Todos los módulos fueron validados correctamente.
